@@ -8,4 +8,4 @@ yet simplest php script to convert OID to hex and vice versa
   - next other number limited to 0..9999999999 (10 digit max)  
   
 - To convert hex form to OID:  
-  ``oid::fromhex($hex)`` where ``$hex`` is hex  
+  ``oid::fromhex($hex)`` where ``$hex`` is a hex form of OID
